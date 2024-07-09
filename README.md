@@ -91,4 +91,4 @@ This is a simple shopping app built using React Native Expo and TypeScript. The 
    eas build -p android
 
 ## App Showcase
-You can view a virtualized demonstration of the app on `Appetize.io` by clicking
+You can view a virtualized demonstration of the app on `Appetize.io` by clicking here https://appetize.io/app/b_n47uzaufctgjpily2yqijz3oyy
